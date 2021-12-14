@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, system administration, and network engineering
 - 🌱 I’m currently learning wordpress
 - 💞️ I’m looking to collaborate on web or mobile project
-- 📫 Reach me at ()[https:://adeismanaji.site]
+- 📫 Reach me at (https:://adeismanaji.sitehttps:://adeismanaji.site)[my website]
 
 <!---
 isman17/isman17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
