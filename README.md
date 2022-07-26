@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isman17
-- 👀 I’m interested in software development, system administration, and network engineering
-- 🌱 I’m currently learning wordpress
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning inertiajs
 - 💞️ I’m looking to collaborate on web or mobile project
 
 <!---
