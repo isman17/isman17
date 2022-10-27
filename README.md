@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isman17
+- 👋 Hi, I’m Isman
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning nextjs
 - 💞️ I’m looking to collaborate on web or mobile project
