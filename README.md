@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isman17
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning expressjs
+- 🌱 I’m currently learning nextjs
 - 💞️ I’m looking to collaborate on web or mobile project
 
 <!---
